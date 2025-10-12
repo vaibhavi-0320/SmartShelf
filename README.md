@@ -786,17 +786,25 @@ Table 8.5: Test Results - Test ID 5 (Adapted from )
 PAGE 42
 References
 [1] Nakamoto, S. "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008.
+
 [2] Wood, G. "Ethereum: A Secure Decentralized Generalized Transaction Ledger." Ethereum Project Yellow Paper, 2014.
+
 [3] Benet, J. "IPFS - Content Addressed, Versioned, P2P File System." arXiv preprint arXiv:1407.3561, 2014.
+
 [4] William Entriken, et al. "EIP-721: Non-Fungible Token Standard." Ethereum Improvement Proposals, 2018.
+
 [5] Z. Wang, Q. Wang, and G. Chen, "A survey on blockchain for digital rights management," Peer-to-Peer Networking and Applications, vol. 14, pp. 1-18, 2021.
+
 [6] A. G. G. Ferreira, L. F. P. Oliveira, and W. S. L. de Sousa, "A Blockchain-Based Platform for Digital Content Management," in 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1234-1239, 2021.
+
 [7] M. Ma, S. Shi, and Y. Gao, "A Decentralized Digital Copyright Management System Based on Blockchain and Smart Contracts," in 2020 IEEE 4th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC), pp. 567-571, 2020.
 
 PAGE 43
 REFERENCES
 [8] L. A. D. C. de Castro, and A. L. L. de Oliveira, "Using NFTs to Represent Digital Content Ownership: A Systematic Review," Journal of Network and Computer Applications, vol. 199, p. 103311, 2022.
+
 [9] S. M. Ali, M. S. Obaidat, and P. Shah, "A survey on the application of blockchain in publishing and digital libraries," Journal of Information Science, vol. 47, no. 5, pp. 547-563, 2021.
+
 [10] R. Sharma, S. Tanwar, and N. Kumar, "A Decade of Blockchain: A Systematic Literature Review," IEEE Access, vol. 8, pp. 67458-67481, 2020.
 Department of Technology, SPPU 2023-2025 
 
