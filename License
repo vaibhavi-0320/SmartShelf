@@ -1,0 +1,23 @@
+
+---
+
+Now I need clarity:
+
+Is your contract actually integrated?
+Or is it just frontend + Supabase?
+
+Because if there is no real NFT minting, don’t lie in README.
+We position it correctly.
+
+---
+
+# 💎 Pro Tip
+
+Add screenshots.
+
+In README:
+
+```markdown
+## 📸 Preview
+
+![Smart Shelf Screenshot](./screenshots/home.png)
