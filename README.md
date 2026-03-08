@@ -138,7 +138,7 @@ Contributions are welcome! Please open an issue first to discuss proposed change
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](SmartShelf/blob/main/License) file for details.
 
 ---
 
