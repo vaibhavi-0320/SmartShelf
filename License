@@ -1,23 +1,14 @@
+MIT License
 
----
+Copyright (c) 2026 vaibhavi-0320
 
-Now I need clarity:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including, without limitation, the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software...
 
-Is your contract actually integrated?
-Or is it just frontend + Supabase?
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Because if there is no real NFT minting, don’t lie in README.
-We position it correctly.
-
----
-
-# 💎 Pro Tip
-
-Add screenshots.
-
-In README:
-
-```markdown
-## 📸 Preview
-
-![Smart Shelf Screenshot](./screenshots/home.png)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
